@@ -4,8 +4,6 @@ A comprehensive roadmap focusing on mastering programming fundamentals, data str
 
 Here’s a detailed roadmap to learn programming and grow into a better programmer, structured around key topics with suggested books. This plan covers the fundamentals of computer science, programming paradigms, problem-solving techniques, and practical skills.
 
-Here's the updated roadmap that integrates **Golang**, **JavaScript**, and **Python** (for AI/ML) into a comprehensive learning path, covering programming and computer science concepts through books. It includes key concepts and the focus of each book.
-
 ## 1. **Programming Basics with Go and JavaScript**
 
 - **Goal**: Build a solid foundation in basic programming with Go and JavaScript.
